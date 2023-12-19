@@ -29,18 +29,20 @@ We want to understand how you work and get a view into your thought process/prob
 
 ## Application Requirements
 
-We want you to build an issue tracker (think something along the lines of JIRA/Linear)
+We want you to build an issue triaging board (think something along the lines of JIRA/Linear)
 
-This application should consist of two main services: UI and Issue Tracker (back-end).
+This application should consist of two main services: UI and Issue Management (back-end).
 
 _If you are applying for a front-end role, you can ignore the back-end service and instead stub network requests._
 
-Using the layout below as a starting point, build an application with the following functionality:
+Build an application with the following functionality (you may use the layout below for inspiration):
 
-- Display a list of all issues
-- Filter the list of issues
-- View details for the selected issue
-- Update the description of the selected issue
+- Display a list of all Issues to be Triaged
+- Filter the list of Issues
+- View details for the selected Issue
+- Accept or Decline Issues
+
+![Issue triaging](./Coding Challenge.svg)
 
 ## Final Thoughts
 
