@@ -42,7 +42,7 @@ Build an application with the following functionality (you may use the layout be
 - View details for the selected Issue
 - Accept or Decline Issues
 
-![Issue triaging](./Coding Challenge.svg)
+![Issue triaging](Coding Challenge.svg)
 
 ## Final Thoughts
 
