@@ -1,7 +1,7 @@
 # `coding-challenge`
 _Paired Programming Coding Challenge for Algomo Engineering Interviews_
 
-Hi! Thank you for taking the time to complete our coding challenge. The objective is is to build an application for browsing conversations and messages, during a **_paired programming interview session_**
+Hi! Thank you for taking the time to complete our coding challenge. The objective is is to build an application for triaging issues, during a **_paired programming interview session_**
 
 Depending on the role you have applied for, the focus will be full-stack or front-end focused. 
 
@@ -9,8 +9,8 @@ We want to understand how you work and get a view into your thought process/prob
 
 ## `tl;dr`
 
-- The paired-programming session should take between 1 and 1.5 hours
-  - Expect around 1 hour of coding, and up to 30 minutes at the end for technical questions
+- The paired-programming session should take around 1.5 hours
+  - Expect around 1 hour of coding, and 30 minutes at the end for technical questions
 - We're not expecting you to develop the entire application within the timeslot!
   - It's up to you to decide how to break the problem into smaller features/what to build during the session
 - We value fast iterations and tight feedback loops. The focus during the session should be building a usable feature
