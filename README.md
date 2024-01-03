@@ -21,11 +21,11 @@ We want to understand how you work and get a view into your thought process/prob
 - Make sure you have VSCode installed, along with the [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension
 - The back-end should be written using NodeJS/TypeScript, and the front-end using React
   - If you are more comfortable using other languages, please let us know before arranging the interview!
-- **Before the interview, you should bootstrap your repository fork with a basic skaffold for the application**. For example, you could use:
+- **Before the interview, you should bootstrap your repository fork with a basic scaffold for the application**. For example, you could use:
   - Next.js or Vite for the front-end
   - For the back-end (if applicable) there are plenty of choices (Nest.js, Express, Koa, Fastify, just to name a few)
   - You may also choose a database, but it is completely fine to use stub data instead
-  - You should include instructions on how to run the application (e.g. `docker-compose up`)
+  - You should include instructions on how to run the application (e.g. `docker-compose up`), along with any pre-requisites for installation
 
 ## Application Requirements
 
